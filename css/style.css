@@ -1,0 +1,284 @@
+
+.search{
+ margin-left: 5px;
+ width: 500px;
+ height: 35px;
+ box-shadow: dimgray;
+ border-radius: 20px;
+ margin-top: 0%;
+
+}
+
+.left_div {
+  margin: 5px;
+ margin-top: 5px;
+ text-align: left;
+ float: left;
+ align-items: center;
+ display: flex;
+ 
+}
+.noti{
+position: absolute;
+top: 32px;
+left: 600px;
+width: 22px ;
+height:20px;
+
+}
+.searchi{
+position: absolute;
+top: 32px;
+left: 570px;
+width: 19px ;
+height:19px;;
+}
+ul {
+  
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: cornsilk;
+}
+  .nav{
+   position:absolute;
+   top: 60px;
+   left: 150px;
+
+
+  }
+
+  .b{
+  
+
+text-align: right;
+
+  }
+  .im1{
+
+    position: absolute;
+    top: 25px;
+    right: 15px;
+
+  }
+  .im2{
+
+    position: absolute;
+    top: 20px;
+    right: 50px;
+
+  }
+.p1{
+
+  position: absolute;
+  top: 120px;
+  left:  160px;
+  color: rgb(47, 8, 185);
+  font-size: 20px;
+
+}
+
+
+ .p11{
+     
+    position: absolute;
+    top: 120px;
+    left:  -140px;
+    color: rgb(126, 127, 138);
+    font-size: 16px;
+    
+  }
+ .p2{
+
+    position: absolute;
+    top: 120px;
+    left:  750px;
+    color: rgb(47, 8, 185);
+    font-size: 20px;
+  
+  }
+  
+  
+.p21{
+       
+      position: absolute;
+      top: 120px;
+      left:  450px;
+      color: rgb(126, 127, 138);
+      font-size: 16px;
+      
+  }
+
+.p3{
+
+      position: absolute;
+      top: 270px;
+      left:  160px;
+      color: rgb(47, 8, 185);
+      font-size: 20px;
+    
+ }
+    
+    
+.p31{
+         
+        position: absolute;
+        top: 270px;
+        left:  -140px;
+        color: rgb(126, 127, 138);
+        font-size: 16px;
+        
+   }
+.p4{
+    
+        position: absolute;
+        top: 270px;
+        left:  750px;
+        color: rgb(47, 8, 185);
+        font-size: 20px;
+      
+  }
+      
+      
+.p41{
+           
+          position: absolute;
+          top: 270px;
+          left:  450px;
+          color: rgb(126, 127, 138);
+          font-size: 16px;
+          
+  }
+.images1{
+
+           position: absolute;
+           top :400px;
+           left: 120px;
+
+
+ }
+
+ .p5{
+    
+          position: absolute;
+          top: 800px;
+          left:  160px;
+          color: rgb(47, 8, 185);
+          font-size: 20px;
+        
+ }
+        
+        
+.p51{
+             
+            position: absolute;
+            top: 800px;
+            left:  -140px;
+            color: rgb(126, 127, 138);
+            font-size: 16px;
+            
+   }
+
+.p6{
+    
+            position: absolute;
+             top: 950px;
+             left:  160px;
+            color: rgb(47, 8, 185);
+            font-size: 20px;
+          
+   }
+          
+          
+.p61{
+               
+              position: absolute;
+              top: 950px;
+              left:  -140px;
+              color: rgb(126, 127, 138);
+              font-size: 16px;
+              
+  }
+
+.p7{
+    
+              position: absolute;
+               top: 1100px;
+               left:  160px;
+              color: rgb(47, 8, 185);
+              font-size: 20px;
+            
+   }
+            
+            
+.p71{
+                 
+                position: absolute;
+                top: 1100px;
+                left:  -140px;
+                color: rgb(126, 127, 138);
+                font-size: 16px;
+                
+  }
+
+  .p8{
+    
+                position: absolute;
+                 top: 1250px;
+                 left:  160px;
+                color: rgb(47, 8, 185);
+                font-size: 20px;
+              
+   }
+              
+              
+ .p81{
+                   
+                  position: absolute;
+                  top: 1250px;
+                  left:  -140px;
+                  color: rgb(126, 127, 138);
+                  font-size: 16px;
+                  
+  }
+
+.images2{
+                    position: absolute;
+                    top: 1500px;
+                    left: 300px;
+                    
+
+   }
+
+.footer{
+                  position: absolute;
+                  top: 1600px;
+                  left: 0;
+                  bottom: 0;
+                  width: 100%;
+                  background-color: #ccc;
+                  color: white;
+                  text-align: center;
+                  height: 30px;
+   }
+           
+  
+
+    
